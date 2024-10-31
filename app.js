@@ -99,7 +99,7 @@ downloadBtn.addEventListener("click", () => {
 
     pdf.html(previewContent, {
         callback: function (doc) {
-            doc.save("resume.pdf"); // Save the PDF
+            doc.save("markdown.pdf"); // Save the PDF
         },
         x: 10,
         y: 10,

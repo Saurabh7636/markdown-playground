@@ -21,7 +21,7 @@ A simple Markdown editor that allows users to write, preview, and download Markd
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/markdown-editor.git
+   git clone https://github.com/Saurabh7636/markdown-playground.git
    ```
 2. Navigate to the project directory:
    ```bash
